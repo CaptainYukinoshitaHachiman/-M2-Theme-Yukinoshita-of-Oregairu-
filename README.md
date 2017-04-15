@@ -2,7 +2,7 @@
 A theme of 雪ノ下雪乃 for M2.
 
 ## Preview
-<img src="https://raw.githubusercontent.com/CaptainYukinoshitaHachiman/-M2-Theme-Yukinoshita-of-Oregairu-/master/Preview-1.png" width=250 height = 350><img src="https://raw.githubusercontent.com/CaptainYukinoshitaHachiman/-M2-Theme-Yukinoshita-of-Oregairu-/master/Preview2.png" width=200 height = 300>
+<img src="https://raw.githubusercontent.com/CaptainYukinoshitaHachiman/-M2-Theme-Yukinoshita-of-Oregairu-/master/Preview-1.png" width=270 height = 350><img src="https://raw.githubusercontent.com/CaptainYukinoshitaHachiman/-M2-Theme-Yukinoshita-of-Oregairu-/master/Preview2.png" width=200 height = 300>
 
 ## Installation
 Copy the released m2.fw file to a TF Card which is formatted to FAT32(Important!)<br/>
