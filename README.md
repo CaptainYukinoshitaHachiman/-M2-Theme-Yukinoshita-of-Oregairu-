@@ -10,7 +10,7 @@ If nothing changes,go to System Settings -> Theme and select the second one
 You can get the Firmware tool made by Shanling at http://pan.baidu.com/s/1nvfafzj<br/>
 You can see this page to use it:http://tieba.baidu.com/p/4672267456
 
-## Crashing
+## Crash
 If your m2 device does not respond after installing this theme,please follow these instructions:<br/>
 1.Make sure the file system of the TF card is FAT32 and your device is m2 if it displays white text and red&green Progress Slider with black backgtound<br/>
 2.If it shows a white picture,please report issue to me and then download the stable ver in release or the official Non-Anime ver at http://www.shanling.com/download/List<br/>
