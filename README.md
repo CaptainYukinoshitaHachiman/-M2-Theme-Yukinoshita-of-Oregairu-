@@ -28,4 +28,4 @@ The images are collected from the Internet.If you own the copyright of the pictu
 Except the things above,this theme is made by CaptainYukinoshitaHachiman
 
 ## Contact
-You may catch me at CaptainYukinoshitaHachiman@protonmail.com
+You may reach me at CaptainYukinoshitaHachiman@protonmail.com
