@@ -15,7 +15,7 @@ You can see this page to use it:http://tieba.baidu.com/p/4672267456
 
 ## Crash
 If your m2 device does not respond after installing this theme,please follow these instructions:<br/>
-1.Make sure the file system of the TF card is FAT32 and your device is m2 if it displays white text and red&green Progress Slider with black backgtound<br/>
+1.Make sure the file system of the TF card is FAT32 and your device is m2 if it displays white text and red&green Progress Slider with black background<br/>
 2.If it shows a white picture,please report issue to me and then download the stable ver in release or the official Non-Anime ver at http://www.shanling.com/download/List<br/>
 3.Then,reset your m2 and hold the play button until it shows "updating"<br/>
 4.Finished!<br/>
